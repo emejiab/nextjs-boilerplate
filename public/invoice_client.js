@@ -48,7 +48,7 @@ $(document).ready(function() {
 
 
     $('#cp_field').select2({
-        placeholder: '* Ingresa el código postal de tu domicilio fiscal',
+        placeholder: '* INGRESAA el código postal de tu domicilio fiscal',
         cache: false,
         language: "es",
         delay: 250,
